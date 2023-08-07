@@ -1,0 +1,6 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icons/app_icon_simpsons.jpg"
+  adaptive_icon_background: "#62C6DB"
+  adaptive_icon_foreground: "assets/app_icons/simpsons_logo_foreground.png"

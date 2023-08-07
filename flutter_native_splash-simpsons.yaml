@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#61C5DA"
+  image: assets/app_icons/simpsons_slash_screen.png
+
+  android_12:
+    image: assets/app_icons/simpsons_slash_screen.png
+    icon_background_color: "#61C5DA"
+
+  web: false
+  ios: true
+  android: true
